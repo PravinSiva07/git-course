@@ -5,3 +5,5 @@ This is the change added to test branch.
 
 making change1 to test rebase.
 making change2 to test rebase.
+
+change1 for feature3
