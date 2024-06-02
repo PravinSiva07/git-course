@@ -2,3 +2,6 @@ create some users.
 
 Add some code to make changes.
 This is the change added to test branch.
+
+making change1 to test rebase.
+making change2 to test rebase.
